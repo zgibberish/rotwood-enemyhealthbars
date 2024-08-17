@@ -1,3 +1,3 @@
 # Enemy Health Bars
 
-Show health bars below rots along with HP values.
+Show health bars with HP values below rots.
