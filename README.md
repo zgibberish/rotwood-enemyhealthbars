@@ -10,3 +10,9 @@ Show health bars with HP values below rots.
 - Display HP Values
 	+ Hidden
 	+ Shown (default)
+
+# Screenshots
+
+![](img/enemyhealthbars_1.png)
+![](img/enemyhealthbars_2.png)
+![](img/enemyhealthbars_3.png)
