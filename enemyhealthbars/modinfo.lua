@@ -1,5 +1,5 @@
 name = "Enemy Health Bars"
-description = "Shows HP bar and values below rots."
+description = "Show HP bar and values below rots."
 author = "gibberish"
 version = "1.0"
 api_version = 10
