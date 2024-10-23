@@ -1,5 +1,5 @@
 name = "Enemy Health Bars"
-description = "Shows HP bar and values below rots."
+description = "Show HP bar and values below rots."
 author = "gibberish"
 version = "2.0"
 api_version = 10
@@ -10,9 +10,13 @@ gorge_compatible = false
 dont_starve_compatible = false
 reign_of_giants_compatible = false
 shipwrecked_compatible = false
+rotwood_compatible = true
 
 client_only_mod = true
 all_clients_require_mod = false
+
+icon_atlas = "modicon.png"
+icon = "modicon.png"
 
 configuration_options = {
     {
