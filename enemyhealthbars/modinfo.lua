@@ -15,6 +15,9 @@ rotwood_compatible = true
 client_only_mod = true
 all_clients_require_mod = false
 
+icon_atlas = "modicon.png"
+icon = "modicon.png"
+
 configuration_options = {
     {
 		name = "always_shown",
